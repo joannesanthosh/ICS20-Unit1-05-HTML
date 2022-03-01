@@ -1,27 +1,8 @@
 # ICS20-Unit1-05-HTML
-{
-  "tagname-lowercase": true,
-  "attr-lowercase": true,
-  "attr-value-double-quotes": true,
-  "attr-value-not-empty": false,
-  "attr-no-duplication": true,
-  "doctype-first": true,
-  "tag-pair": true,
-  "tag-self-close": false,
-  "spec-char-escape": true,
-  "id-unique": true,
-  "src-not-empty": true,
-  "title-require": true,
-  "alt-require": true,
-  "doctype-html5": true,
-  "id-class-value": "dash",
-  "style-disabled": false,
-  "inline-style-disabled": false,
-  "inline-script-disabled": false,
-  "space-tab-mixed-disabled": "space",
-  "id-class-ad-disabled": false,
-  "id-class-value": false,
-  "href-abs-or-rel": false,
-  "attr-unsafe-chars": true,
-  "head-script-disabled": true
-}
+[![GitHub's Super Linter](https://github.com/joannesanthosh/ICS20-Unit1-05-HTML/workflows/GitHub's%20Super%20Linter/badge.svg)](https://github.com/joannesanthosh/ICS20-Unit1-05-HTML/actions)
+
+
+
+[![Run on Repl.it](https://repl.it/badge/github/joannesanthosh/ICS20-Unit1-05-HTML)](https://repl.it/github/joannesanthosh/ICS20-Unit1-05-HTML)
+
+This site can be found at: [https://joannesanthosh.github.io/ICS20-Unit1-05-HTML(https://joannesanthosh.github.io/ICS20-Unit1-05-HTML)
